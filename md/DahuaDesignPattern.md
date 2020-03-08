@@ -3,7 +3,7 @@
 
 <div align="center">  
 
-<img src="https://github.com/luobotiantang/learning/blob/master/background.jpg"/> 
+<img src="https://github.com/luobotiantang/DesignPatterns/blob/master/img/DaHuaDesign.jpg"/> 
 <br/>
 
 [![](https://travis-ci.org/luobotiantang/learning.svg?branch=master)](https://travis-ci.org/luobotiantang/learning)
