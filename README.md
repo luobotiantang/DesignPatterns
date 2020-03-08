@@ -26,7 +26,7 @@
 
 ### 设计模式
 
-- [大话设计模式]()
+- [大话设计模式](https://github.com/luobotiantang/DesignPatterns/blob/master/README.md)
 - [设计模式之禅(第二版)]() 
 - [设计模式(java版)]()
 
