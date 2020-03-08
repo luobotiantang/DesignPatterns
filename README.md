@@ -30,8 +30,15 @@
 - [设计模式之禅(第二版)](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DesignPatternCicada.md) 
 - [设计模式(java版)](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DesignPatternJavaVersion.md)
 
-### 设计模式
-- [大话设计模式](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DahuaDesignPattern.md)
+### 设计模式的设计原则
+
+ > 单一职责原则
+ > 里氏替换原则
+ > 依赖倒置原则
+ > 接口隔离原则
+ > 迪米特法则
+ > 开闭原则
+
 
 ### 联系
 
