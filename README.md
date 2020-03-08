@@ -15,7 +15,7 @@
 
 |💡|📮
 | :--------:| :------:|
-| [设计模式](#设计模式)|[联系](#联系) |
+| [设计模式](#设计模式相关书籍)|[联系](#联系) |
 
 <br>
 
@@ -23,11 +23,11 @@
  
 <br/>
 
-### 设计模式
+### 设计模式相关书籍
 
-- [大话设计模式](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DahuaDesignPattern.md)
-- [设计模式之禅(第二版)](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DesignPatternCicada.md) 
-- [设计模式(java版)](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DesignPatternJavaVersion.md)
+- [《大话设计模式》](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DahuaDesignPattern.md)
+- [《设计模式之禅(第二版)》](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DesignPatternCicada.md) 
+- [《设计模式(java版)》](https://github.com/luobotiantang/DesignPatterns/blob/master/md/DesignPatternJavaVersion.md)
 
 ### 设计模式的设计原则
 
